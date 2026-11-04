@@ -33,4 +33,4 @@
 ![Git](https://img.shields.io/badge/Git-0B1F3A?style=flat-square&logo=git&logoColor=4DA3FF)
 </details>
 
-![Snake animation](https://github.com/YagoMarcal/YagoMarcal)
+![Snake animation](https://github.com/YagoMarcal)
