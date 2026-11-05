@@ -1,4 +1,16 @@
-## Olá, Eu sou o Yago Marçal
+<div align="center">
+
+<h1 align="center">Yago Marçal</h1>
+
+<h2 align="center"> Engenharia de Software </h2>
+ 
+<br/>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagocmarcal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123C69?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagomarçal/)
+[![GitHub](https://img.shields.io/badge/GitHub-1D5D9B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YagoMarcal)
+
+</div>
 
 
 - **Linguagens e desenvolvimento:** Python, JavaScript, HTML, CSS e C.
@@ -16,10 +28,5 @@
 </div>
 
 <br>
-
-<div> 
-  <a href = "mailto:yagocmarcal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yago-marçal-6b0bb2432/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div
 
 ![Snake animation](https://github.com/YagoMarcal)
