@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Olá, sou Yago Marçal</h2>
+<h1 data-importer="text" align="center">Olá, sou Yago Marçal</h1>
 
 
 <h3 data-importer="text" align="center">Engenharia de Software</h3>
