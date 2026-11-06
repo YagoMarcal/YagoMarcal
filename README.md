@@ -18,10 +18,10 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/yagomarçal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="yagocmarcal@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
+  <a href="mailto:yagocmarcal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
 </div>
 
