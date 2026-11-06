@@ -1,7 +1,7 @@
 <h1 data-importer="text" align="center">Olá, sou Yago Marçal</h1>
 
 
-<h2 data-importer="text" align="center">Engenharia de Software</h2>
+<h2 data-importer="text" align="center">Software Engeneering</h2>
 
 
 <h2 data-importer="text" align="left">Sobre Mim</h2>
@@ -66,9 +66,7 @@
 <div data-importer="techs" align="center">
 </div>
 
-###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/YagoMarcal/YagoMarcal/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
