@@ -3,7 +3,6 @@
 
 <h2 data-importer="text" align="center">Engenharia de Software</h2>
 
-###
 
 <h2 data-importer="text" align="left">Sobre Mim</h2>
 
