@@ -8,14 +8,6 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de engenharia de software,  interessado em Tecnologia da Informação, Banco de dados e Desenvolvimento de Software.</p>
-
-###
-
-<p data-importer="text" align="left">Atualmente, estou estagiando na área de Suporte, mas busco outras oportunidades áreas para um maior aprendizado.</p>
-
-###
-
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/yagomarçal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
@@ -24,6 +16,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
 </div>
+
+<br>
+
+<p data-importer="text" align="left">Sou estudante de engenharia de software,  interessado em Tecnologia da Informação, Banco de dados e Desenvolvimento de Software.</p>
+
+###
+
+<p data-importer="text" align="left">Atualmente, estou estagiando na área de Suporte, mas busco outras oportunidades áreas para um maior aprendizado.</p>
 
 ###
 
