@@ -1,5 +1,4 @@
-<h1 data-importer="text" align="center">Olá, sou Yago Marçal</h1>
-
+![Olá, sou Yago Marça!](https://readmes.pages.dev/text/say/Olá%2C%20sou%20Yago%20Marçal!/wave/)
 
 <h2 data-importer="text" align="center">Software Engeneering</h2>
 
