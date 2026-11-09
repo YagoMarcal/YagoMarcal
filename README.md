@@ -1,7 +1,11 @@
+<div align="center">
+
 ![Olá, sou Yago Marça!](https://readmes.pages.dev/text/say/Olá%2C%20sou%20Yago%20Marçal!/wave/)
+<h3>Software Engeneering</h3>
 
-<h2 data-importer="text" align="center">Software Engeneering</h2>
 
+
+</div>
 
 <h2 data-importer="text" align="left">Sobre Mim</h2>
 
